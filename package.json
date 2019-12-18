@@ -17,6 +17,7 @@
   },
     "dependencies": {
 	"got": "^9.6.0",
+	"bcrypt": "^3.0.7",
 	"registry-auth-token": "^4.0.0",
 	"registry-url": "^5.0.0",
         "semver": "^6.2.0",
